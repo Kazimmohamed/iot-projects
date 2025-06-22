@@ -1,0 +1,25 @@
+body {
+  background: #f4f9ff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top: 60px;
+}
+
+.box {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 30px;
+  display: inline-block;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+  color: #007acc;
+  margin-bottom: 20px;
+}
+
+.note {
+  margin-top: 15px;
+  font-size: 12px;
+  color: #666;
+}
